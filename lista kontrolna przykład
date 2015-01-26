@@ -1,0 +1,20 @@
+LISTA KONTROLNA
+
+1.	System umożliwia użytkownikowi założenie konta. - funkcjonalne
+2.	System umożliwia wyszukanie danego użytkownika. - funkcjonalne
+3.	System umożliwia wyszukanie danej książki przez podanie autora i tytułu. - funkcjonalne
+4.	System umożliwia sprawdzenie dostępności danej książki. - funkcjonalne
+5.	System umożliwia wypożyczenie książki. - funkcjonalne
+6.	System umożliwia oddanie książki. - funkcjonalne
+7.	System umożliwia zmianę ilości książek. - funkcjonalne 
+8.	System umożliwia sprawdzenie czy książka została oddana w terminie. - funkcjonalne
+9.	System umożliwia nałożenie obciążeń czytelnikowi za każdy dzień opóźnienia w oddaniu  książki. - funkcjonalne
+10.	System umożliwia przypisanie wypożyczonej książki odpowiedniemu użytkownikowi. - funkcjonalne
+11.	System umożliwia modyfikację bazy danych użytkowników. - funkcjonalne
+12.	System umożliwia dodanie książki do bazy danych książek. - funkcjonalne
+13.	System umożliwia usunięcie książki z bazy danych książek. - funkcjonalne
+
+Priorytety wymagań:
+•	Krytyczne
+•	Alternatywne
+•	Zależne czasowo
