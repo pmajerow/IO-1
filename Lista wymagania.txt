@@ -1,0 +1,6 @@
+1. Dodawanie Og³oszeñ
+2. Dodawanie Kategorii
+3. Logowanie
+4. Rejestracja
+5. Raportowanie Og³oszeñ
+6. Dodawanie komentarzy do og³oszeñ
