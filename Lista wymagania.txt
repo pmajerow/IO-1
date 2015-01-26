@@ -4,3 +4,4 @@
 4. Rejestracja
 5. Raportowanie Og³oszeñ
 6. Dodawanie komentarzy do og³oszeñ
+7. Przegl¹danie Og³oszeñ
